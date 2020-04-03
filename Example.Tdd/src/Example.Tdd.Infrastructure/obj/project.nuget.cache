@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "hJyJfNOQdoyREBKdfS3WRmeh0IBYwp3Xop5izhc5Ohs9KTy/VSUmQxAj9wgzE3zJYy0M4x/Nar+AoOA3Qbz0GQ==",
+  "success": true,
+  "projectFilePath": "/home/samuel/Github/example-tdd/Example.Tdd/src/Example.Tdd.Infrastructure/Example.Tdd.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "/usr/share/dotnet/sdk/NuGetFallbackFolder/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/usr/share/dotnet/sdk/NuGetFallbackFolder/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

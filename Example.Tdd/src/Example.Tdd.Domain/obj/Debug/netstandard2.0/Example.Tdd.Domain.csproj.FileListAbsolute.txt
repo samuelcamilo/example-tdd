@@ -1,0 +1,9 @@
+/home/samuel/Github/example-tdd/Example.Tdd/src/Example.Tdd.Domain/bin/Debug/netstandard2.0/Example.Tdd.Domain.deps.json
+/home/samuel/Github/example-tdd/Example.Tdd/src/Example.Tdd.Domain/bin/Debug/netstandard2.0/Example.Tdd.Domain.dll
+/home/samuel/Github/example-tdd/Example.Tdd/src/Example.Tdd.Domain/bin/Debug/netstandard2.0/Example.Tdd.Domain.pdb
+/home/samuel/Github/example-tdd/Example.Tdd/src/Example.Tdd.Domain/obj/Debug/netstandard2.0/Example.Tdd.Domain.csprojAssemblyReference.cache
+/home/samuel/Github/example-tdd/Example.Tdd/src/Example.Tdd.Domain/obj/Debug/netstandard2.0/Example.Tdd.Domain.csproj.CoreCompileInputs.cache
+/home/samuel/Github/example-tdd/Example.Tdd/src/Example.Tdd.Domain/obj/Debug/netstandard2.0/Example.Tdd.Domain.AssemblyInfoInputs.cache
+/home/samuel/Github/example-tdd/Example.Tdd/src/Example.Tdd.Domain/obj/Debug/netstandard2.0/Example.Tdd.Domain.AssemblyInfo.cs
+/home/samuel/Github/example-tdd/Example.Tdd/src/Example.Tdd.Domain/obj/Debug/netstandard2.0/Example.Tdd.Domain.dll
+/home/samuel/Github/example-tdd/Example.Tdd/src/Example.Tdd.Domain/obj/Debug/netstandard2.0/Example.Tdd.Domain.pdb

@@ -1,0 +1,9 @@
+/home/samuel/Github/example-tdd/Example.Tdd/src/Example.Tdd.Infrastructure/bin/Debug/netstandard2.0/Example.Tdd.Infrastructure.deps.json
+/home/samuel/Github/example-tdd/Example.Tdd/src/Example.Tdd.Infrastructure/bin/Debug/netstandard2.0/Example.Tdd.Infrastructure.dll
+/home/samuel/Github/example-tdd/Example.Tdd/src/Example.Tdd.Infrastructure/bin/Debug/netstandard2.0/Example.Tdd.Infrastructure.pdb
+/home/samuel/Github/example-tdd/Example.Tdd/src/Example.Tdd.Infrastructure/obj/Debug/netstandard2.0/Example.Tdd.Infrastructure.csprojAssemblyReference.cache
+/home/samuel/Github/example-tdd/Example.Tdd/src/Example.Tdd.Infrastructure/obj/Debug/netstandard2.0/Example.Tdd.Infrastructure.csproj.CoreCompileInputs.cache
+/home/samuel/Github/example-tdd/Example.Tdd/src/Example.Tdd.Infrastructure/obj/Debug/netstandard2.0/Example.Tdd.Infrastructure.AssemblyInfoInputs.cache
+/home/samuel/Github/example-tdd/Example.Tdd/src/Example.Tdd.Infrastructure/obj/Debug/netstandard2.0/Example.Tdd.Infrastructure.AssemblyInfo.cs
+/home/samuel/Github/example-tdd/Example.Tdd/src/Example.Tdd.Infrastructure/obj/Debug/netstandard2.0/Example.Tdd.Infrastructure.dll
+/home/samuel/Github/example-tdd/Example.Tdd/src/Example.Tdd.Infrastructure/obj/Debug/netstandard2.0/Example.Tdd.Infrastructure.pdb

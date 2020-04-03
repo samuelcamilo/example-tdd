@@ -1,0 +1,12 @@
+/home/samuel/Github/example-tdd/Example.Tdd/src/Example.Tdd.Application/bin/Debug/netstandard2.0/Example.Tdd.Application.deps.json
+/home/samuel/Github/example-tdd/Example.Tdd/src/Example.Tdd.Application/bin/Debug/netstandard2.0/Example.Tdd.Application.dll
+/home/samuel/Github/example-tdd/Example.Tdd/src/Example.Tdd.Application/bin/Debug/netstandard2.0/Example.Tdd.Application.pdb
+/home/samuel/Github/example-tdd/Example.Tdd/src/Example.Tdd.Application/bin/Debug/netstandard2.0/Example.Tdd.Domain.dll
+/home/samuel/Github/example-tdd/Example.Tdd/src/Example.Tdd.Application/bin/Debug/netstandard2.0/Example.Tdd.Domain.pdb
+/home/samuel/Github/example-tdd/Example.Tdd/src/Example.Tdd.Application/obj/Debug/netstandard2.0/Example.Tdd.Application.csprojAssemblyReference.cache
+/home/samuel/Github/example-tdd/Example.Tdd/src/Example.Tdd.Application/obj/Debug/netstandard2.0/Example.Tdd.Application.csproj.CoreCompileInputs.cache
+/home/samuel/Github/example-tdd/Example.Tdd/src/Example.Tdd.Application/obj/Debug/netstandard2.0/Example.Tdd.Application.AssemblyInfoInputs.cache
+/home/samuel/Github/example-tdd/Example.Tdd/src/Example.Tdd.Application/obj/Debug/netstandard2.0/Example.Tdd.Application.AssemblyInfo.cs
+/home/samuel/Github/example-tdd/Example.Tdd/src/Example.Tdd.Application/obj/Debug/netstandard2.0/Example.Tdd.Application.csproj.CopyComplete
+/home/samuel/Github/example-tdd/Example.Tdd/src/Example.Tdd.Application/obj/Debug/netstandard2.0/Example.Tdd.Application.dll
+/home/samuel/Github/example-tdd/Example.Tdd/src/Example.Tdd.Application/obj/Debug/netstandard2.0/Example.Tdd.Application.pdb
