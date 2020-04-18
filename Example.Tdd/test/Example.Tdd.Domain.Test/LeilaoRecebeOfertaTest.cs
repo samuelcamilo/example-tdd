@@ -10,7 +10,7 @@ namespace Example.Tdd.Domain.Test
         private void NaoPermiteNovosLancesDadoLeilaoFinalizado()
         {
             // Arrange (Preparação das variáveis necessárias)
-            Leilao leilao = new Leilao("I Leilão Bothers Plus", new Bem("Van Gogh", "Arte"));
+            Leilao leilao = new Leilao("I Leilão Bothers Plus", 0, new Bem("Van Gogh", "Arte"));
             Cliente samuel = new Cliente("Samuel", leilao);
 
             leilao.IniciarPregao();
